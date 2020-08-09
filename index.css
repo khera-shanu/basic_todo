@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  font-size: 32px;
+}
+
+#todo_container{
+  margin: auto;
+  width:50%;
+  text-align: center;
+}
+
+input, button{
+  padding: 5px;
+  font-size: 16px;
+}
+
+#all_todos{
+  text-align: left;
+}
